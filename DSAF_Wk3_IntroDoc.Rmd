@@ -1,0 +1,32 @@
+---
+title: "A Markdown Notebook"
+author: "Chris Ried"
+date: "2022-09-06"
+output: html_document
+---
+
+# Assignment
+
+## Bullet Points
+
+-   A list of points
+    -   A bulleted list
+        -   And a few sub-bullets
+
+## A numbered list
+
+1.  One
+2.  Two
+3.  Three
+
+## Word Documentation
+
+Here is a *sentance* to see if I've been able to do **anything** with it..
+
+```{r echo=FALSE}
+2+2
+```
+```{r}
+sessionInfo()
+```
+
